@@ -1,4 +1,4 @@
-	
+#!/bin/bash	
 # Script 2: FOSS Package Inspector
 
 
