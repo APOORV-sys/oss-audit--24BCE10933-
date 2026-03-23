@@ -6,7 +6,7 @@ A suite of five comprehensive Bash scripts designed to provide essential system 
 
 ##  Student Information
 
-| **Student Name** | [cite_start]Apoorv [cite: 1] |
+| **Student Name** | Apoorv Gupta |
 | **Roll Number** | 24BCE10933 |
 
 ---
