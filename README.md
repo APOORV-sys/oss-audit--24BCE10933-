@@ -39,10 +39,10 @@ A security-focused script that loops through critical system directories using a
 * **Config Check**: Specifically monitors the `/etc/gamified-finance` directory for required permissions[cite: 10, 11].
 
 ### Script 4: Log File Analyzer
-[cite_start]A robust log-parsing utility that uses a `while true` loop to ensure a valid file is provided[cite: 11, 12].
-* [cite_start]**Input Validation**: Re-prompts the user if the provided log file is missing or empty[cite: 13].
-* [cite_start]**Pattern Matching**: Uses `while-read` and `grep -iq` to count every instance of a keyword (defaulting to "error")[cite: 14, 15].
-* [cite_start]**Summary**: Prints the total count and utilizes `tail -n 5` to display the most recent five matching occurrences[cite: 16, 17].
+A robust log-parsing utility that uses a `while true` loop to ensure a valid file is provided[cite: 11, 12].
+* **Input Validation**: Re-prompts the user if the provided log file is missing or empty[cite: 13].
+* **Pattern Matching**: Uses `while-read` and `grep -iq` to count every instance of a keyword (defaulting to "error")[cite: 14, 15].
+* **Summary**: Prints the total count and utilizes `tail -n 5` to display the most recent five matching occurrences[cite: 16, 17].
 
 ### Script 5: Open Source Manifesto Generator
 An interactive script that creates a personalized philosophy statement[cite: 18].
